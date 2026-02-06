@@ -32,9 +32,9 @@ Progetto realizzato da:
 - **Lona Christian**
 - **Sandri Martino**
 - **Winkler Aurora** 
-Classe: **4 DS**  
-Scuola: **Istituto Tecnico Tecnologico Michelangelo Buonarroti Trento**  
-Anno scolastico: **2025-2026**
+- Classe: **4 DS**  
+- Scuola: **Istituto Tecnico Tecnologico Michelangelo Buonarroti Trento**  
+- Anno scolastico: **2025-2026**
 
 ## Note
-Il progetto ha un scopo puramente divulgativo della cultura della città di Trento.
+Il progetto ha uno scopo puramente divulgativo della cultura della città di Trento.
