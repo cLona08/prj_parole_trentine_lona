@@ -1,7 +1,7 @@
 # PROGETTO PAROLE TRENTINE - GRUPPO CLSW
 
 ## Descrizione del progetto
-Il progetto è stato svolto sia a scuola che a casa, tramite la collaborazione di un team di 4 persone. L’obiettivo è quello di raccogliere, studiare e valorizzare alcune **parole del dialetto di Trento**.  
+Questo progetto è stato svolto tramite la collaborazione di un team di 4 persone in ambietnte scolastico e personale. L’obiettivo è quello di raccogliere, studiare e valorizzare alcune **parole del dialetto di Trento**.  
 Il lavoro serve a far conoscere meglio la cultura e le tradizioni linguistiche della città di Trento, mettendo a confronto il dialetto con l’italiano.
 
 ## Obiettivi
